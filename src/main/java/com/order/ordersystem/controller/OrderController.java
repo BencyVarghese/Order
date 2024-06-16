@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class OrderController {
 	@GetMapping("/order")
 	public String getOrder() {
-		return "Hello Bency";
+		return "Hello Bency6";
 				
 	}
 
